@@ -9,7 +9,7 @@ ARG SEARXNG_UID=977
 RUN addgroup -g ${SEARXNG_GID} searxng && \
     adduser -u ${SEARXNG_UID} -D -h /usr/local/searxng -s /bin/sh -G searxng searxng
 
-ENV INSTANCE_NAME=searxng \
+ENV INSTANCE_NAME=Search \
     AUTOCOMPLETE= \
     BASE_URL= \
     MORTY_KEY= \

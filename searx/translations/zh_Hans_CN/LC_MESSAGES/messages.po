@@ -1710,7 +1710,7 @@ msgstr "隐藏视频"
 #~ msgstr "各结果得分"
 
 #~ msgid "a privacy-respecting, hackable metasearch engine"
-#~ msgstr "一个尊重隐私、可二次开发的元搜索引擎"
+#~ msgstr "分布式网络爬虫搜索引擎"
 
 #~ msgid "No abstract is available for this publication."
 #~ msgstr "此出版物没有可用的摘要。"
