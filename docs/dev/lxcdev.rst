@@ -252,7 +252,7 @@ With the use of the :ref:`searxng.sh` the SearXNG service was installed as
 
         $ sudo -H ./utils/lxc.sh cmd searxng-archlinux systemctl stop uwsgi@searxng
 
-With the command above, we stopped the SearXNG uWSGI-App in the archlinux
+With the command above, we stopped the  uWSGI-App in the archlinux
 container.
 
 The uWSGI-App for the archlinux distros is configured in
@@ -296,7 +296,7 @@ with the working tree from outside of the container:
           ln -s /share/SearXNG/ /usr/local/searxng/searxng-src
 
 Now we can develop as usual in the working tree of our desktop system.  Every
-time the software was changed, you have to restart the SearXNG service (in the
+time the software was changed, you have to restart the  service (in the
 container):
 
 .. tabs::
@@ -366,7 +366,7 @@ To build the docs on a buildhost :ref:`buildhosts`:
 
 .. tabs::
 
-  .. group-tab:: ``[root@searxng-archlinux SearXNG]`` (GUEST)
+  .. group-tab:: ``[root@searxng-archlinux ]`` (GUEST)
 
      .. code:: bash
 
