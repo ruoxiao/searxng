@@ -596,7 +596,7 @@ msgstr "首选项"
 
 #: searx/templates/simple/base.html:68
 msgid "Powered by"
-msgstr "功能来自"
+msgstr ""
 
 #: searx/templates/simple/base.html:68
 msgid "a privacy-respecting, open metasearch engine"
