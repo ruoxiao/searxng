@@ -2,8 +2,7 @@
 
 .. ----
 
-A novice is trying to borrow from a website and implement his own search engine.
-The source link is https://github.com/searxng/searxng.
+A novice is trying to borrow from searxng project and implement his own search engine.
 
 .. .. figure:: https://raw.githubusercontent.com/searxng/searxng/master/src/brand/searxng.svg
 ..    :target: https://docs.searxng.org/
